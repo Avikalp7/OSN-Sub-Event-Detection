@@ -1,0 +1,263 @@
+Number of Tweet Samples :  5000
+**********************Clusters based on feature = Text*************************
+New cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Number of Clusters =  56
+**********************Clusters based on feature = DateTime*************************
+New cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Adding cluster
+Number of Clusters based on Datetime =  5
+
+
+**************************Getting into final data*******************************
+
+
+Final Number of Clusters : 95
+
+CLUSTER NUMBER :  0
+dilsukhnagar 919391351543 ambulance dhanalaxmi service help 09963857749 number 09440379926 blast 
+CLUSTER NUMBER :  1
+near theatre venkatadri place konark explosion second dilsukhnagar 
+CLUSTER NUMBER :  2
+rumor spread sir try stop communal color 
+CLUSTER NUMBER :  3
+https status photo twitter com anujgurwara ahead 304644040656306176 info update 
+CLUSTER NUMBER :  4
+injure hyderabad blast kill bomb 
+CLUSTER NUMBER :  5
+alert serial high karnataka major blast cities hyderabad mumbai india 
+CLUSTER NUMBER :  6
+condemn condole offer rajnath assistance http probe 
+CLUSTER NUMBER :  7
+channel win race trp verdict jump telecast discussion news 
+CLUSTER NUMBER :  8
+04027853408 helpline 04027854771 number helplines hyderabadblasts state 04027852435 
+CLUSTER NUMBER :  9
+09246373536 bindu 04064579998 kamineni slms balaji dilsuknagar 039879999 bank blood 
+CLUSTER NUMBER :  10
+send intelligence body hope speed saab didn hyd post info 
+CLUSTER NUMBER :  11
+news hyderabad sadden blast 
+CLUSTER NUMBER :  12
+away area 9km dilsuknager busiest domination skirt charminar akbaduddin sound 
+CLUSTER NUMBER :  13
+say information shinde specific occur 
+CLUSTER NUMBER :  14
+campaign draft kafila loon perps punishment capital leave post 
+CLUSTER NUMBER :  15
+mind ideal workshop devil 
+CLUSTER NUMBER :  16
+today line tribute indians die linkage armsgate draw blast hyderabad 
+CLUSTER NUMBER :  17
+vote responsible upa2 
+CLUSTER NUMBER :  18
+blood need requirement contact donate netas narayana suraram jeedimetla hrudayalaya 
+CLUSTER NUMBER :  19
+police vvips hour let site 
+CLUSTER NUMBER :  20
+word need help spread tweet vocab dastardly new 
+CLUSTER NUMBER :  21
+forget chopperscam din verma abhishek end let talk days 
+CLUSTER NUMBER :  22
+ones government throw dehumanise balm money loss love india victims 
+CLUSTER NUMBER :  23
+day typical dilsukh nagar look 
+CLUSTER NUMBER :  24
+gut open organistn doesnt cowardly demand act make terrorist stand 
+CLUSTER NUMBER :  25
+don green paint saffron togadia invite slowly color chance red 
+CLUSTER NUMBER :  26
+god hyderabadblast bless victims 
+CLUSTER NUMBER :  27
+theories precede conspiracy tragic events 
+CLUSTER NUMBER :  28
+affect day extremely prayers sad victims families blast hyderabad 
+CLUSTER NUMBER :  29
+news visit shinde sadden blast home hyderabad minister bbc site 
+CLUSTER NUMBER :  30
+say threat warn rip security minister days home india bomb 
+CLUSTER NUMBER :  31
+hear hyderabad sad bomb lakhs 
+CLUSTER NUMBER :  32
+morning viruses set safe hope bomb hyderabad 
+CLUSTER NUMBER :  33
+ambulance dhanalaxmi service 09963857749 919391351543 help number dilsukhnagar share 09440379926 
+CLUSTER NUMBER :  34
+https photo status twitter com moradabad ani_news mosque 304891959191945216 anujgurwara 
+CLUSTER NUMBER :  35
+helpline 04027853408 number emergency 
+CLUSTER NUMBER :  36
+blood flesh piece human donate netas 04023555005 free contact sit 
+CLUSTER NUMBER :  37
+police let vvips hour site 
+CLUSTER NUMBER :  38
+stick tape maha red cctvs work mumbai tell city serial 
+CLUSTER NUMBER :  39
+like compassion happiness 6xkmabqgk2 love ruin rahul industrialists tata ratan 
+CLUSTER NUMBER :  40
+akhilesh yadav lodge jail think twice prove frm muslim terrorist 
+CLUSTER NUMBER :  41
+condemn pakistan hyderabad blast probe http 
+CLUSTER NUMBER :  42
+toll rise http death blast hindu 
+CLUSTER NUMBER :  43
+hang basterds try guru 
+CLUSTER NUMBER :  44
+cut wire ago cctv days hyderabadblasts site 
+CLUSTER NUMBER :  45
+bjp issue sabha link eager understand rajya afzal adjourn investigation 
+CLUSTER NUMBER :  46
+year warn abscond failure date till government catch declare bust 
+CLUSTER NUMBER :  47
+wait mercy plea penalty apply advance drop terrorists till death 
+CLUSTER NUMBER :  48
+act paedophile peacefull follower lunacy plunderer expect fgjjokqhkq turn prove 
+CLUSTER NUMBER :  49
+body daughter parent pic return muslims dead 
+CLUSTER NUMBER :  50
+bpujuwh49m ignorant http 
+CLUSTER NUMBER :  51
+investigators stay away work let site people dilsukhnagar blast 
+CLUSTER NUMBER :  52
+case slack crack jx24oxn1hb cnn ibn chat government developments rahulji 
+CLUSTER NUMBER :  53
+road witness leave eye dead http 641sdhjy8w puciyshjnc blast hyderabad 
+CLUSTER NUMBER :  54
+request don survivor 334302 cities ndtv article bomb www com 
+CLUSTER NUMBER :  55
+rule hand rss concern cong function expose half cctv security 
+CLUSTER NUMBER :  56
+ibtl extension speech swaraj sushma 6700 owaisis owaisi video hyderabadblasts 
+CLUSTER NUMBER :  57
+horrify 2udw5ode9v story witness http 
+CLUSTER NUMBER :  58
+ammonium nitrate sarma eas ignore warn shock secretary http use 
+CLUSTER NUMBER :  59
+bhatkal yasin bail sure sympathisers afzalguru protest mastermind execute catch 
+CLUSTER NUMBER :  60
+bastards fuck cover religion use 
+CLUSTER NUMBER :  61
+dream shatter tarnish uvs4imxano hop future human boodle marriage literally 
+CLUSTER NUMBER :  62
+bomb blast 
+CLUSTER NUMBER :  63
+cctv footage breakthrough tv10 provide http image wrolovdnbd upeydgqbqw 
+CLUSTER NUMBER :  64
+probe spread hunt terror firstpost state http blast timeshyderabad 
+CLUSTER NUMBER :  65
+share dilsukhnagar ambulance dhanalaxmi service 919391351543 help number 09963857749 09440379926 
+CLUSTER NUMBER :  66
+survivor abdul quiz mirza don time police terror request work 
+CLUSTER NUMBER :  67
+news sadden blast hyderabad visit 
+CLUSTER NUMBER :  68
+accuse economic time http blast casual xljsnezdye hyderabad 
+CLUSTER NUMBER :  69
+nia team raid bihar district alert days twin blast hyderabad 
+CLUSTER NUMBER :  70
+sushma responsibility centre end swaraj state alert pzsalyn8sw expres ibtl 
+CLUSTER NUMBER :  71
+04027853408 helpline number 
+CLUSTER NUMBER :  72
+link party boss member arrest mim case carry network know 
+CLUSTER NUMBER :  73
+normal limp normalcy traffic return commercial tpavmzcxn8 http dilsukhnagar 
+CLUSTER NUMBER :  74
+sharma anurag suffice explanation best prevent know minutes 
+CLUSTER NUMBER :  75
+temple target terrorists hyderabadblasts 
+CLUSTER NUMBER :  76
+police commissioner media chief vvips hour let speak site 
+CLUSTER NUMBER :  77
+wcv conflict monitor latest india case crack http team special 
+CLUSTER NUMBER :  78
+pragya mirja sadhvi wasif tea abdul prove release 
+CLUSTER NUMBER :  79
+sagarika ghose meat shop hint muslim tweet area dilsukhnagar 
+CLUSTER NUMBER :  80
+donate netas blood 
+CLUSTER NUMBER :  81
+day families victims extremely affect prayers sad mid necessary headline 
+CLUSTER NUMBER :  82
+muck team probe 637296 far twitterfeed firstpost investigation html utm_source 
+CLUSTER NUMBER :  83
+21st largest rsbdx4bhun february district explode cities bomb india http 
+CLUSTER NUMBER :  84
+04027853408 helpline number helplines 
+CLUSTER NUMBER :  85
+visit sit sadden manmohan blast hyderabad news http mer3tdghdg book 
+CLUSTER NUMBER :  86
+color know let shinde launch manhunt hyderabad massive blast zero 
+CLUSTER NUMBER :  87
+cities alert major 0cijkpxa tv5 serial e07s2snn0h bangalore file members 
+CLUSTER NUMBER :  88
+pain tell victims share a0t4cxifq2 prime http manmohan singh visit 
+CLUSTER NUMBER :  89
+daughter parent pic return muslims body dead blast hyderabad 
+CLUSTER NUMBER :  90
+09440379926 09963857749 919391351543 number dilsukhnagar area blast helpline share ambulance 
+CLUSTER NUMBER :  91
+hit vendors lakhs ripple business street zp9deoovfe families zero operatives 
+CLUSTER NUMBER :  92
+kxbt0hfkih dc9fgdoq2h meet zero operatives cop awful upset thoughts exceptionally 
+CLUSTER NUMBER :  93
+emergency pradesh andhra government 04027854771 helpline number 
+CLUSTER NUMBER :  94
+raju u87hkx93fe bhai operative hunt delhi police http
