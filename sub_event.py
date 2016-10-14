@@ -14,6 +14,8 @@ from nltk import PorterStemmer, WordPunctTokenizer
 feature_names = []
 # A global list to store tf-idf values for tweets text
 tfidf_titles = []
+# A global dictionary storing list of tweet texts and datetime corresponding to serial nums
+tweets_dict = {}
 
 def corpus_list(tweets_dict, feature_index, sample_num):
 	"""
@@ -87,6 +89,7 @@ class final_cluster:
 	def __init__(self, data_point_idx, data_point):
 		self.data_points_idx = [data_point_idx]
 		self.num_points = 1
+		self.ft_idx = data_point_idx
 		self.centroid = [x for x in data_point]
 		self.sum_points = [x for x in data_point]
 		final_cluster.num_clusters += 1
@@ -106,6 +109,8 @@ class final_cluster:
 		self.sum_points = [sum(x) for x in zip(self.sum_points, data_point)]
 		self.centroid = [x/float(self.num_points) for x in self.sum_points]
 		self.data_points_idx.append(data_point_idx)
+		if cosine_sim_metric(self.centroid, data_point) > cosine_sim_metric(self.centroid, tfidf_titles[self.ft_idx]):
+			self.ft_idx = data_point_idx
 
 
 class cluster:
@@ -345,20 +350,21 @@ def print_clusters(cluster_list):
 	for fcl in cluster_list:
 		print '\nCLUSTER NUMBER : ',
 		print cnum
-		for idx in xrange(0, len(feature_names)):
-			d[feature_names[idx]] = fcl.centroid[idx]
-		sorted_d = sorted(d.items(), key=operator.itemgetter(1), reverse = True)
-		idx = 0
-		for item in sorted_d:
-			if idx >= max_words_to_print:
-				break
-			elif item[1] > tf_idf_param:
-				print item[0],
-			else:
-				break
-			idx += 1
-		d.clear()
-		sorted_d[:] = []
+		print tweets_dict[fcl.ft_idx][0]
+		# for idx in xrange(0, len(feature_names)):
+		# 	d[feature_names[idx]] = fcl.centroid[idx]
+		# sorted_d = sorted(d.items(), key=operator.itemgetter(1), reverse = True)
+		# idx = 0
+		# for item in sorted_d:
+		# 	if idx >= max_words_to_print:
+		# 		break
+		# 	elif item[1] > tf_idf_param:
+		# 		print item[0],
+		# 	else:
+		# 		break
+		# 	idx += 1
+		# d.clear()
+		# sorted_d[:] = []
 		cnum += 1
 
 if __name__ == "__main__":
@@ -371,6 +377,7 @@ if __name__ == "__main__":
 	# dict keys : 0 to sample_num - 1 (inclusive)
 	# dict values : list -> [title(str), description(str), upload_date(date), latitude(float), longitude(float)] 
 	tweets_dict = pickle.load( open( "tweets_dict.p", "rb" ) )
+
 	sample_num = len(tweets_dict)
 	print 'Number of Tweet Samples : ',
 	print sample_num
@@ -385,11 +392,11 @@ if __name__ == "__main__":
 
 	final_cluster_list, final_label_pred_list = binary_voting(sample_num, feature_num, weights, label_pred_list)
 	
-	print_choice =  raw_input('Print word summary for each cluster? Y/N : ')
-	while print_choice not in ['Y','N']:
-		print_choice =  raw_input('Please enter valid choice Y/N : ')
-	if print_choice == 'Y':
-		print_clusters(final_cluster_list)
+	# print_choice =  raw_input('Print word summary for each cluster? Y/N : ')
+	# while print_choice not in ['Y','N']:
+	# 	print_choice =  raw_input('Please enter valid choice Y/N : ')
+	# if print_choice == 'Y':
+	print_clusters(final_cluster_list)
 
 	# pickle.dump(feature_names, open( "feature_names_list.p", "wb" ) )	
 	# pickle.dump(final_cluster_list, open( "final_cluster_list.p", "wb" ) )
